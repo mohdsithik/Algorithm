@@ -25,4 +25,4 @@ def Queen_Placement(n):
 
 
 Queen_Placement(queens)
-print(*chess,sep="\n")
+print(*chess,sep="\n") 
